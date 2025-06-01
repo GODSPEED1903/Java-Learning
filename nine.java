@@ -66,6 +66,7 @@ class nine{
         students[1] = s2;
         students[2] = s3;
 
-        System.out.println(s1);
+        System.out.println(s1); //this will print the address
+        
     }
 }
